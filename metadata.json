@@ -1,0 +1,6 @@
+{
+  "name": "全流程项目管理系统",
+  "description": "杜增辉-AI智能感知平台 - 某兵器军工专用平台建设项目全流程管理系统，包含五大过程组、十大知识领域、甘特图CPM关键路径、EVM挣值分析、质量双归零评审、技术状态CCB变更与RBAC角色权限控制。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
